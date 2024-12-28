@@ -1,5 +1,5 @@
 # om
 <br>
-This is my first repo.
+This is my new repo.
 <br>
 Authority:  https://github.com/om
